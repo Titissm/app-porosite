@@ -27,13 +27,8 @@ git remote add origin https://github.com/TON-PSEUDO/porosite-app.git
 git push -u origin main
 ```
 
-(Crée d'abord un dépôt vide `porosite-app` sur github.com.)
+share.streamlit.io
 
-## Déployer gratuitement
-
-1. Va sur [share.streamlit.io](https://share.streamlit.io) et connecte ton compte GitHub.
-2. Clique sur **Create app**, choisis le dépôt `porosite-app`, la branche `main` et le fichier `app.py`.
-3. Clique sur **Deploy** : tu obtiens un lien public à partager.
 
 ## Source des données
 
