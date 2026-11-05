@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Visualiser la porosité", layout="wide")
 st.title("🪨 Visualiser la porosité")
-st.caption("Application pédagogique – Sciences de la Terre (L3)")
+
 
 M2_PAR_MD = 9.869e-16  # 1 millidarcy en m²
 BBL_PAR_M3 = 6.2898  # 1 m³ en barils
